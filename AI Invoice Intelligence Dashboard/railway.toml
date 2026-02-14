@@ -1,0 +1,3 @@
+# Frontend service - set Root Directory to "AI Invoice Intelligence Dashboard"
+[build]
+builder = "DOCKERFILE"

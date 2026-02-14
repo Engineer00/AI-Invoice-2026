@@ -1,0 +1,14 @@
+# Exclude from Docker build context
+.git
+.gitignore
+*.md
+AI Invoice Intelligence Dashboard/
+node_modules
+**/__pycache__
+**/.venv
+**/venv
+**/.env
+backend/data/
+backend/storage/
+*.db
+*.pdf
